@@ -30,7 +30,7 @@ with(data,lines(data$Date,
                 col="blue"))
 
 legend("topright",
-       pch="--",
+       pch="-",
        lty=1,
        lwd=2.5,
        col=c("black","red","blue"),
